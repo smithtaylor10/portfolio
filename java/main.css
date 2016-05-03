@@ -1,0 +1,23 @@
+body { font-family: "Poiret One", "sans-serif"; background-color: #ECF0F1;
+ }
+
+.jumbotron {background-image: url(hero3.jpg); background-repeat: no-repeat; background-size: cover; width: 100%; margin-top: -40px; padding: 20%; background-attachment: fixed; }
+
+.jumbotron h1 {font-family: "Lato", "sans-serif"; position: absolute; left: 0; margin-top: -10px; padding-left: 20px; color: #F7FAFE;}
+
+.mission {background-color: #FFF; color: #ABB7B7; margin-top: -30px;}
+
+.mission h3 { text-align: left; padding: 5% 10% ;}
+
+.features {
+    padding: 5% 0;
+}
+
+.features p {
+    font-family: 'Muli' 'sans-serif';
+    text-align: center;
+    color: #FFF;
+    font-size: 1.8em;
+    padding-top: 10px;
+}
+footer {color: #FFF}
